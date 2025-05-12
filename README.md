@@ -25,6 +25,8 @@ Um editor gráfico interativo desenvolvido em Processing para criação de arte 
 5. **Salve sua arte** com o botão "Salvar"
 6. **Reinicie** a qualquer momento com o botão "Limpar"
 
+**Video** https://youtu.be/nUK9VXazNHo 
+
 ## ⚙️ Instalação
 
 1. Tenha o [Processing](https://processing.org/download/) instalado (versão 4.0+)
