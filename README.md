@@ -32,7 +32,7 @@ Um editor gráfico interativo desenvolvido em Processing para criação de arte 
 1. Tenha o [Processing](https://processing.org/download/) instalado (versão 4.0+)
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/carla-reis-cr/paint_formas.git
    ```
 3. Abra o arquivo `setup.pde` no Processing IDE
 4. Execute o sketch (botão ▶️)
